@@ -26,3 +26,8 @@
 
 
 ![Quiz question](https://user-images.githubusercontent.com/84230105/224006318-cb1ccff2-1e32-4975-a057-c948c9413c4c.png)
+
+## Leaderboard
+
+![Leaderboard](https://user-images.githubusercontent.com/84230105/224313956-47ecca7d-3e17-4086-bd8c-d3ddc6a3316b.png)
+
